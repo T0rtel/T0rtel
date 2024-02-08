@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tortel</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate game developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t0rtel&label=Profile%20views&color=0e75b6&style=flat" alt="t0rtel" /> </p>
 
