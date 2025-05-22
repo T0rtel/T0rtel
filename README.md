@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tortel</h1>
 <h3 align="center">A game developer :D</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=t0rtel&label=Profile%20views&color=0e75b6&style=flat" alt="t0rtel" /> </p>
-
 - 🌱 I’m currently learning **GLSL**
 
 - 💬 Ask me about **My Experiences**
