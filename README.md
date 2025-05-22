@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Tortel</h1>
-<h3 align="center">A game developer :D</h3>
-
 - 🌱 I’m currently learning **GLSL**
 
 - 💬 Ask me about **My Experiences**
